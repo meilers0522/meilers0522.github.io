@@ -86,9 +86,6 @@ Together, these artifacts tell a cohesive story of my journey through the comput
 ## **Informal Code Review**
 ### Overview:
 
-**Click here to view the full Code Review** \| [(View Code Review)](https://youtu.be/Yvlx1phi2xc?si=zfFV26lJa_BrunPY) 
-<br><br>
-
 <p style="text-indent: 55px;">
 In my code review video, I cover all three artifacts, analyzing each one individually for errors, vulnerabilities, and weaknesses. As I walk through each artifact, I explain my plans for improvements and enhancements. For software design and engineering, I use Visual Studio to present the C++ code of my original artifact and discuss my intended enhancement. For algorithms, data structures, and databases, I showcase the original Python code in PyCharm to explain the planned enhancements, covering both the second and third artifacts. Throughout the video, I employ professional-level oral, written, and visual communication techniques to clearly present the code review. The communication is coherent, technically sound, and tailored to the audience within a collaborative environment. My review is structured around three key elements:
 </p>
@@ -96,8 +93,9 @@ In my code review video, I cover all three artifacts, analyzing each one individ
   - Current Functionality: A thorough walkthrough of the existing code, highlighting its features and how it operates.
   - Code Analysis: Identification of areas for improvement in aspects such as structure, logic, efficiency, functionality, security, testing, and the quality of comments and documentation.
   - Planned Enhancements: A walkthrough of the intended improvements that address the issues identified in the code analysis.
+  - **Click here to view the full Code Review** \| [(View Code Review)](https://youtu.be/Yvlx1phi2xc?si=zfFV26lJa_BrunPY)
 
-<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/Yvlx1phi2xc?si=zuiyypcoPiYyOgi4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Yvlx1phi2xc?si=zfFV26lJa_BrunPY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
