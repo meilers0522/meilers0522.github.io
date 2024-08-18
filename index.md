@@ -80,7 +80,6 @@ Together, these artifacts tell a cohesive story of my journey through the comput
   - I Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals
   - I Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources
 
-For a complete summary on how I achieved these outcomes [(Click Here)](https://github.com/DCodeMorris/ePortfolio/blob/main/Narratives/20231202_Course_Outcomes_Morris.pdf)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -88,7 +87,7 @@ For a complete summary on how I achieved these outcomes [(Click Here)](https://g
 ### Overview:
 
 <p style="text-indent: 55px;">
-My code review video contains all three artifacts. I analyze each artifact separately for errors, vulnerabilities, and weaknesses. I narrate my plans for improvements/enhancements during the walkthrough of each artifact. In software design and engineering, I use Visual Studio to showcase the C++ code of my original artifact to explain my planned enhancement. In algorithms and data structures, and databases, I showcase my original code in PyCharm using Python to explain my planned enhancement; these cover both artifact two and three. Throughout my videos, I provide professional-quality oral, written, and visual communication techniques to effectively explain a code review through collaborative environments that are coherent, technically sound, and appropriately adapted to specific audiences. The basis of my code review focuses on three critical elements:
+In my code review video, I cover all three artifacts, analyzing each one individually for errors, vulnerabilities, and weaknesses. As I walk through each artifact, I explain my plans for improvements and enhancements. For software design and engineering, I use Visual Studio to present the C++ code of my original artifact and discuss my intended enhancement. For algorithms, data structures, and databases, I showcase the original Python code in PyCharm to explain the planned enhancements, covering both the second and third artifacts. Throughout the video, I employ professional-level oral, written, and visual communication techniques to clearly present the code review. The communication is coherent, technically sound, and tailored to the audience within a collaborative environment. My review is structured around three key elements:
 </p>
 
   - Existing functionality: A detailed walk-through of the existing code focused on the features and function of the current code.
