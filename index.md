@@ -96,8 +96,6 @@ In my code review video, I cover all three artifacts, analyzing each one individ
 
 **Click here to view the full Code Review** \| [(View Code Review)](https://www.youtube.com/watch?v=Yvlx1phi2xc)
 
-<iframe align="center" width="900" height="480" src="https://youtu.be/embed/Yvlx1phi2xc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
