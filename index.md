@@ -86,8 +86,6 @@ Together, these artifacts tell a cohesive story of my journey through the comput
 ## **Informal Code Review**
 ### Overview:
 
-**Click here to view the full Code Review** \| [(View Code Review)](https://www.youtube.com/watch?v=Yvlx1phi2xc)
-
 <p style="text-indent: 55px;">
 In my code review video, I cover all three artifacts, analyzing each one individually for errors, vulnerabilities, and weaknesses. As I walk through each artifact, I explain my plans for improvements and enhancements. For software design and engineering, I use Visual Studio to present the C++ code of my original artifact and discuss my intended enhancement. For algorithms, data structures, and databases, I showcase the original Python code in PyCharm to explain the planned enhancements, covering both the second and third artifacts. Throughout the video, I employ professional-level oral, written, and visual communication techniques to clearly present the code review. The communication is coherent, technically sound, and tailored to the audience within a collaborative environment. My review is structured around three key elements:
 </p>
