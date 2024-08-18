@@ -155,19 +155,15 @@ I encountered challenges while working with shaders and buffers, as they are dif
 
 
 <p style="text-indent: 55px;">
-The artifact I have chosen for Enhancement Two: Algorithms and Data Structure is enhancing the search algorithm of my Python application that handles data about pets in animal shelters.  To enhance the search algorithm, I utilized the development environment PyCharm.  My application is written using Python, which is a high-level programming language.  I decided to use this application due to its large number of algorithms and programming logic already created.  I originally created this application during the 22EW4 term in class CS-340 Client/Server Development.
+The artifact I have chosen for Enhancement Two: Algorithms and Data Structure is enhancing the overall program for the zoo application developed early on in my time at SNHU. To enhance this artifact, I chose to use the IDE visual studios, and wrote using Java. I decided to use this application because I wanted to showcase my skills and how they have improved over my time in the program. Since this was one of the first programs I made, I felt that it was perfect for this protfolio as I build the artifact from the ground up. 
 </p>
 
-<p style="text-indent: 55px;">
-I determined this was the best project to enhance stemmed from how popular Python’s programming language is, ranking as the 4th most popular language according to a 2021 Overflow survey.  Python’s widespread use in web and game development, areas where I excel.  Along with its prevalence in emerging fields like machine learning and artificial intelligence (AI) solidified my decision.  With the recent influx of AI and machine learning happening around the world, joining a team in either domain could have potential contributions to groundbreaking innovations in the future.
-</p>
+**Click here to view the full narrative** \| [(View Narrative)](https://github.com/meilers0522/meilers0522.github.io/blob/main/4%20Narratives/2%20Algorithms%20and%20Data%20Structures%20Narrative.pdf)
 
-**Click here to view the full narrative** \| [(View Narrative)](https://github.com/DCodeMorris/ePortfolio/blob/main/Narratives/20231120_Narrative_Algorithms_and_Data_Structures.pdf)
-
-  - [Original Build Files](https://github.com/DCodeMorris/ePortfolio/tree/main/CS-499%20Algorithms%20and%20Data%20Structures/Artifact%20Two%20Original) (View the directory containing the original Python project files.)
-  - [Original Build Code](./CS-499 Algorithms and Data Structures/Artifact Two Original) (View the original Python code directly here.)
-  - [Final Build Files](https://github.com/DCodeMorris/ePortfolio/tree/main/CS-499%20Algorithms%20and%20Data%20Structures/Artifact%20Two%20Release) (View the directory containing the final Python project files.)
-  - [Final Build Code](./CS-499 Algorithms and Data Structures/Artifact Two Release) (View the final builds Python code directly.)
+  - [Original Build Files](https://github.com/meilers0522/meilers0522.github.io/tree/main/2%20Algorithms%20and%20Data%20Structures/Original%20Artifact/Original%20Artifact%202/Major%20Project%202) (View the directory containing the original Python project files.)
+  - [Original Build Code](./CS-499 Algorithms and Data Structures/Artifact Two Original) (View the original Java code directly here.)
+  - [Final Build Files](https://github.com/meilers0522/meilers0522.github.io/tree/main/2%20Algorithms%20and%20Data%20Structures/Enhanced%20Artifact/ZooAuthentication) (View the directory containing the final Python project files.)
+  - [Final Build Code](./CS-499 Algorithms and Data Structures/Artifact Two Release) (View the final builds Java code directly.)
 
 <div style="text-align: center;">
     <a href="https://github.com/DCodeMorris/ePortfolio/blob/main/assets/img/Salvare%20Screenshot%20Artifact%202.png" target="_blank">
