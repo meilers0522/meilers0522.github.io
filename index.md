@@ -165,13 +165,6 @@ The artifact I have chosen for Enhancement Two: Algorithms and Data Structure is
   - [Final Build Files](https://github.com/meilers0522/meilers0522.github.io/tree/main/2%20Algorithms%20and%20Data%20Structures/Enhanced%20Artifact/ZooAuthentication) (View the directory containing the final Python project files.)
   - [Final Build Code](./CS-499 Algorithms and Data Structures/Artifact Two Release) (View the final builds Java code directly.)
 
-<div style="text-align: center;">
-    <a href="https://github.com/DCodeMorris/ePortfolio/blob/main/assets/img/Salvare%20Screenshot%20Artifact%202.png" target="_blank">
-		<img src="assets/img/Salvare Screenshot Artifact 2.png" width="720px" title="Salvare Application Screenshot" />
-	</a>
-    <p><em>Figure 2 - Salvare Web App with Search Algorithm Enhancement - CS-340 Client/Server Development</em></p>
-</div>
-
 ### Conclusion:
 
 <p style="text-indent: 55px;">
