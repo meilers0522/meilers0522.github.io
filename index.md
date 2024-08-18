@@ -123,7 +123,7 @@ By using the C++ programming language and the OpenGL API, I showcase my strong t
   - [Final Build Code](./CS-499 Software Engineering and Design/Artifact One Release) (View the final builds C++ code directly here.)
   <br><br>
 <div style="text-align: center;">
-    <a href="https://github.com/DCodeMorris/ePortfolio/blob/main/assets/img/Pyramid%20Screenshot%20Artifact%201.png" target="_blank">
+    <a href="https://github.com/meilers0522/meilers0522.github.io/blob/main/assets/img/Screenshot%20(237).png" target="_blank">
 		<img src="assets/img/Pyramid Screenshot Artifact 1.png" width="720px" title="OpenGL 3-D Pyramid Screenshot" />
 	</a>
     <p><em>Figure 1 - OpenGL 3-D Pyramid - CS-330 Computer Graphics and Visualization</em></p>
