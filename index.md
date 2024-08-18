@@ -90,9 +90,9 @@ Together, these artifacts tell a cohesive story of my journey through the comput
 In my code review video, I cover all three artifacts, analyzing each one individually for errors, vulnerabilities, and weaknesses. As I walk through each artifact, I explain my plans for improvements and enhancements. For software design and engineering, I use Visual Studio to present the C++ code of my original artifact and discuss my intended enhancement. For algorithms, data structures, and databases, I showcase the original Python code in PyCharm to explain the planned enhancements, covering both the second and third artifacts. Throughout the video, I employ professional-level oral, written, and visual communication techniques to clearly present the code review. The communication is coherent, technically sound, and tailored to the audience within a collaborative environment. My review is structured around three key elements:
 </p>
 
-  - Existing functionality: A detailed walk-through of the existing code focused on the features and function of the current code.
-  - Code Analysis: Target areas of improvement in structure, logic, efficiency, functionality, security, testing, commenting, and documenting.
-  - Enhancements: A walk-through of planned enhancements that address issues raised in the code analysis.
+  - Current Functionality: A thorough walkthrough of the existing code, highlighting its features and how it operates.
+  - Code Analysis: Identification of areas for improvement in aspects such as structure, logic, efficiency, functionality, security, testing, and the quality of comments and documentation.
+  - Planned Enhancements: A walkthrough of the intended improvements that address the issues identified in the code analysis.
 
 <iframe align="center" width="900" height="480" src="https://www.youtube.com/embed/Blk_gB-TfTo?si=QWKd_WiVbFxKIn3d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
