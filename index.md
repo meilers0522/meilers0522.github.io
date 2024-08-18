@@ -6,27 +6,67 @@ layout: default
 
 <p style="text-indent: 55px;">
 	
-I have acquired a large amount of knowledge since I started my journey in the Computer Science program in November of 2018. The additional confidence I gained allows me to continue excelling in the computer science field. This ePortfolio serves as an incentive to illustrate my competency and mastery of my professional goals to develop a successful career in computer science. In completing my journey, I will pursue a career in Cybersecurity, a field closely associated with computer science as a top option. While reviewing my skills and abilities throughout my provided technical artifacts, I show I have a strong foundation in computer science with heightened knowledge of importance for security that powers my drive for becoming a Cybersecurity professional.
+Completing my coursework throughout the Computer Science program and developing my ePortfolio have been crucial in helping me showcase my strengths, refine my professional goals, and solidify my readiness to enter the field. Each course and project has not only expanded my technical skills but also provided opportunities to reflect on and demonstrate the competencies that set me apart in a competitive job market.
 </p>
 
 <p style="text-indent: 55px;">
-I successfully completed GAM-305 Digital Game Development as an elective to further my knowledge and skills of collaborating in a team environment. The successful outcome from this course granted me the ability to leverage strengths between team members, to assign roles, and navigate challenges. I had 5 team members and 5 positions, and each member excelled in the position they had taken. I gained communication skills, learned how to compromise and be a leader, which plays a large role in a professional workplace. Portions of these skills came from assisting members in all positions throughout the project. I incorporated sprints to assist with any issues and developed a plan of action. My ability to collaborate in a team environment provided me with successful results in my course.
+One of the most significant ways in which this program has helped me showcase my strengths is through hands-on projects that mirror real-world challenges. For instance, developing the "Salvare Search for Rescue Web App" allowed me to apply my knowledge of software engineering principles and database management in a meaningful way. This project highlighted my ability to design and implement complex systems, work with databases like MongoDB, and follow industry-standard practices such as the Model-View-Controller (MVC) design pattern. By including this project in my ePortfolio, I can clearly demonstrate my technical capabilities and problem-solving skills to potential employers.
 </p>
 
 <p style="text-indent: 55px;">
-My acquired knowledge of communicating in a team environment taught me the importance of communication with stakeholders. Throughout my 5 years, I took multiple classes where the final project was based on real-life scenarios. It was a company with a list of requirements and goals with a descriptive background. Communication with stakeholders provided a better understanding of requirements and business goals, and it also built trust. With this skill, I was able to deliver a quality product that met all the expectations of the company's goals. This leads me to success in the product management and development fields.
+Moreover, the program has played a crucial role in shaping my professional goals and values. Early in the coursework, I realized the importance of security in software development. This awareness guided me to focus on secure coding practices, as seen in my enhancement of the zoo authentication system, where I implemented MD5 password hashing. The emphasis on security throughout my studies has reinforced my commitment to developing applications that are not only functional but also safe and reliable. This value is now central to my professional goals, as I aim to contribute to projects that prioritize data protection and user security.
 </p>
 
 <p style="text-indent: 55px;">
-Data structures and algorithms were the groundwork for my path to programming. Looking past the artifacts I narrate in my portfolio, I have supplied algorithms to support problems faced in my day-to-day life. I have designed and developed Python applications to organize income and bills, improving these with enhanced search algorithms which improved its efficiency and performance. I showcase the skills and knowledge to optimize and enhance search algorithms fluently to make applications run far more superior in detail in my code review and narratives.
+Collaboration and communication, both of which were integral to many of my courses, have also been key areas of growth. Through group projects and presentations, I learned how to effectively communicate technical concepts to non-technical stakeholders, ensuring that everyone involved understands the objectives and outcomes of a project. These experiences have made me more adaptable and have enhanced my ability to work well in diverse teams—an essential skill in any professional setting. The ability to communicate and collaborate effectively is something I now see as a strength that will make me more employable in the computer science field.
 </p>
 
 <p style="text-indent: 55px;">
-My software engineering and database management skills are showcased in all my artifacts. The 3D triangle application I developed in OpenGL shows my abilities using software engineering principles and best practices to create a complete and accurate application, transforming simple 2D objects into interactive 3D shapes. My Python applications highlight my skills and knowledge in database management, including the integrity of supplied or created data.
+The process of developing my ePortfolio has been equally transformative. It has provided a platform to curate and present my best work, allowing me to critically evaluate my progress and identify areas where I excel. By organizing and reflecting on my projects, I have gained a clearer understanding of my strengths and how they align with my career aspirations. The ePortfolio not only showcases my technical skills but also tells a story of my growth and development as a computer scientist, making me a more compelling candidate to potential employers.
 </p>
 
 <p style="text-indent: 55px;">
-Security is the main focus in the forefront of all new projects and implemented throughout the projects entirety. I ensure sensitive information is protected and not only in my work but also in my day-to-day life. In artifact three I showcase additional security enhancements that far exceed the requirements of my project to showcase the importance of security. In my narrative for artifact three you will understand and visualize my abilities and knowledge and commitment to security with implementing password hashing, authentication, limited access options.
+Throughout my Computer Science program, I have had numerous opportunities to develop and refine skills that are crucial for success in the field. One of the most valuable experiences was collaborating in team environments. For example, in a software engineering course, I worked with a team to develop a comprehensive web application. This project required effective communication, delegation of tasks, and integration of various components created by different team members. The experience taught me the importance of clear communication and collaboration, as we had to ensure that our individual contributions aligned seamlessly to produce a cohesive and functional product. This skill in teamwork is essential in the professional world, where most projects require close collaboration with others.
+</p>
+
+<p style="text-indent: 55px;">
+Communicating with stakeholders is another area where I have grown significantly. In several projects, I had to present technical concepts and project progress to non-technical stakeholders, such as professors or classmates with different areas of expertise. These presentations challenged me to simplify complex ideas without losing the essence of the technical work, ensuring that the stakeholders understood the project's objectives and potential impact. This ability to translate technical jargon into accessible language is crucial when working in diverse teams or when clients need to be involved in the decision-making process.
+</p>
+
+<p style="text-indent: 55px;">
+My coursework also provided a solid foundation in data structures and algorithms, which are the backbone of efficient and effective software development. For instance, in my algorithms class, I tackled complex problems that required optimizing code for speed and efficiency. These exercises sharpened my ability to choose the right data structures for specific tasks and to implement algorithms that solve problems in the most efficient way possible. This knowledge is fundamental to developing high-performance software and is a skill I continually apply in my projects.
+</p>
+
+<p style="text-indent: 55px;">
+In terms of software engineering and database management, I gained hands-on experience through projects that involved designing, implementing, and maintaining databases. Understanding how to create robust and scalable databases has been a key learning outcome, particularly when considering the importance of data integrity and performance in any application. Moreover, my exposure to various software engineering methodologies, such as Agile and MVC, has equipped me with the tools to manage and execute software development projects effectively.
+</p>
+
+<p style="text-indent: 55px;">
+Lastly, the focus on security throughout my program has been instrumental in shaping my approach to software development. I have learned to prioritize security from the initial stages of design through to implementation. For example, in one project, I implemented secure authentication mechanisms, which included password hashing and encryption techniques, to protect user data. This emphasis on security is not just a technical requirement but a professional value that I carry with me into every project.
+</p>
+
+<p style="text-indent: 55px;">
+My experiences in the program have provided me with a well-rounded skill set that includes teamwork, communication, data structures, software engineering, database management, and security. These skills are not only essential to my success as a computer scientist but also make me a valuable asset in any professional environment.
+</p>
+
+<p style="text-indent: 55px;">
+The artifacts in my ePortfolio are carefully curated to showcase the full spectrum of my computer science talents and abilities. Each artifact represents a key aspect of my technical expertise, from software development and database management to security and user interface design. Collectively, these projects provide a comprehensive view of my skills and demonstrate my ability to tackle complex challenges across various domains within computer science.
+</p>
+
+<p style="text-indent: 55px;">
+One of the central themes in my portfolio is the application of the software development lifecycle (SDLC) and best practices in software engineering. For instance, the 'Salvare Search For Rescue Web App' exemplifies my proficiency in full-stack development, where I implemented a robust MVC architecture to create a user-friendly interface while ensuring efficient back-end operations. This project not only highlights my technical skills but also my ability to think critically about user needs and design software that is both functional and intuitive.
+</p>
+
+<p style="text-indent: 55px;">
+Another key aspect of my portfolio is my strong foundation in data management and security. The enhancement of the 'Zoo Authentication' system demonstrates my understanding of secure coding practices, particularly in the implementation of MD5 password hashing and role-based authentication. This project underscores my commitment to developing secure applications that protect user data, a crucial skill in today’s technology landscape.
+</p>
+
+<p style="text-indent: 55px;">
+Additionally, the 'Texturing a Pyramid' assignment showcases my abilities in computer graphics and visualization. This project allowed me to apply complex algorithms and OpenGL programming to create a 3D representation from a 2D texture. It not only reflects my technical prowess in a specialized area but also my ability to translate theoretical knowledge into practical, visually engaging solutions.
+</p>
+
+<p style="text-indent: 55px;">
+Together, these artifacts tell a cohesive story of my journey through the computer science program. They illustrate my versatility and depth of knowledge, as well as my capacity to integrate different aspects of computer science into well-rounded, high-quality projects. Through these artifacts, my ePortfolio provides a clear and compelling picture of my readiness to enter the professional field, equipped with the skills necessary to contribute meaningfully to any organization.
 </p>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
