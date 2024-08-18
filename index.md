@@ -115,11 +115,11 @@ My artifact was created during CS-330 Computer Graphics and Visualization class,
 By using the C++ programming language and the OpenGL API, I showcase my strong technical skills. To enhance this artifact, I upgraded the 2D rendering into a 3D pyramid. As technology advances and more powerful hardware becomes available, the demand for higher-quality graphics and greater realism continues to grow.
 </p>
 
-**Click here to view the full narrative** \| [(View Narrative)](https://github.com/DCodeMorris/ePortfolio/blob/main/Narratives/20231120_Narrative_Software_Engineering_and_Design.pdf)
+**Click here to view the full narrative** \| [(View Narrative)](https://github.com/meilers0522/meilers0522.github.io/blob/main/4%20Narratives/1%20Software%20Design%20and%20Engineering%20Narrative.pdf)
 
-  - [Original Build Files](https://github.com/DCodeMorris/ePortfolio/tree/main/CS-499%20Software%20Engineering%20and%20Design/Artifact%20One%20Original) (View the directory containing the original .cpp, and project files.)
+  - [Original Build Files](https://github.com/meilers0522/meilers0522.github.io/tree/main/1%20Software%20Engineering%20and%20Design/Original%20Artifact/Origional%205-3%20Assignment%20Texturing%20a%20Pyramid) (View the directory containing the original .cpp, and project files.)
   - [Original Build Code](./CS-499 Software Engineering and Design/Artifact One Original) (View the original C++ code directly here.)
-  - [Final Build Files](https://github.com/DCodeMorris/ePortfolio/tree/main/CS-499%20Software%20Engineering%20and%20Design/Artifact%20One%20Release) (View the directory containing the final .cpp and project files.)
+  - [Final Build Files](https://github.com/meilers0522/meilers0522.github.io/tree/main/1%20Software%20Engineering%20and%20Design/Enhanced%20Artifact/Enhanced%205-3%20Assignment%20Texturing%20a%20Pyramid) (View the directory containing the final .cpp and project files.)
   - [Final Build Code](./CS-499 Software Engineering and Design/Artifact One Release) (View the final builds C++ code directly here.)
   <br><br>
 <div style="text-align: center;">
