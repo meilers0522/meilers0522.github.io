@@ -104,15 +104,15 @@ In my code review video, I cover all three artifacts, analyzing each one individ
 
 
 <p style="text-indent: 55px;">
-The artifact I have chosen for Enhancement One: Software Design and Engineering is a 2D rendering vector of triangles. I designed and built the 2D rendering using Visual Studio, an integrated development environment (IDE). To create the 2D rendering using this environment, I incorporated OpenGL, an application programming interface (API). OpenGL requires a programming language to operate; I have chosen to use my language of choice, C++.  
+For Enhancement One: Software Design and Engineering, I selected a 2D triangle rendering artifact. I developed this 2D rendering using Visual Studio, an integrated development environment (IDE), and implemented OpenGL, an application programming interface (API), to handle the rendering. Since OpenGL requires a programming language to function, I opted to use C++, my preferred language, for this project. 
 </p>
 
 <p style="text-indent: 55px;">
-My artifact was created during CS-330 Computer Graphics and Visualization class, which took place in May of 2022 during my 22EW5 term at SNHU. I determined this was the best project to enhance due to OpenGL being a widely utilized API that has been around for a long time and is still used in top businesses and supported by current hardware. With most of the world still using OpenGL, I will have a larger pool of opportunities with my knowledge and skills, enhancing my artifact.  
+My artifact was created during CS-330 Computer Graphics and Visualization class, which took place in November 2023 at SNHU. I chose this project for enhancement because OpenGL is a widely-used API with a long-standing presence in the industry. It continues to be supported by modern hardware and is utilized by leading companies. Given its widespread use, deepening my knowledge and skills in OpenGL will open up more opportunities and add significant value to my artifact.
 </p>
 
 <p style="text-indent: 55px;">
-My use of the C++ programming language and OpenGL API demonstrates my impressive abilities. To enhance this artifact, I transformed my rendering of a 2D object into a 3D pyramid, as time goes on, we are introduced with new technology and more powerful hardware that really push graphics to new levels, and when this happens, the desire for realism increases.
+By using the C++ programming language and the OpenGL API, I showcase my strong technical skills. To enhance this artifact, I upgraded the 2D rendering into a 3D pyramid. As technology advances and more powerful hardware becomes available, the demand for higher-quality graphics and greater realism continues to grow.
 </p>
 
 **Click here to view the full narrative** \| [(View Narrative)](https://github.com/DCodeMorris/ePortfolio/blob/main/Narratives/20231120_Narrative_Software_Engineering_and_Design.pdf)
