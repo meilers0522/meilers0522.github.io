@@ -189,18 +189,22 @@ While the project was a success, it presented challenges that contributed to my 
 ### Introduction:
 
 <p style="text-indent: 55px;">
-The artifact for Enhancement Three: Databases is a Python application designed to create a web interface using the Dash web app framework and integrating Dash Component modules for displaying animal data from animal shelters, including results that are filtered based on user criteria.  This application was developed during my CS-340 Client/Server Development course in the 22EW4 term.  These applications originated in my second artifact, where I developed an enhanced search algorithm.  Choosing PyCharm as my development environment (IDE) and using the Python programming language, I designed and developed a useful enhancement to this application, I accomplished this by implementing an additional collection, <strong><code>`users`</code></strong> into my database to handle user accounts. My goal is to align my work with all-course outcomes related to databases.
+In this section of my ePortfolio, I present the enhanced version of the animal shelter application originally developed in November 2023 during my CS 340 Client/Server Development course. The original project, built using Python and the Dash web app framework, was designed to create a web interface for displaying and filtering animal data from the shelter. For this enhancement, I chose to utilize PyCharm as my development environment and Jupyter Notebook for testing, incorporating several upgrades to improve the application's functionality and performance. The revised application integrates MongoDB for robust data management and implements a multi-tier Model-View-Controller (MVC) design pattern to streamline development and ensure scalability.
 </p>
 
-**Click here to view the full narrative** \| [(View Narrative)](https://github.com/DCodeMorris/ePortfolio/blob/main/Narratives/20231120_Narrative_Databases_Morris.pdf)
+<p style="text-indent: 55px;">
+The updated "Salvare Search for Rescue Web App" reflects significant advancements in client/server development, database management, and user interface design. By leveraging MongoDB and the PyMongo driver for efficient CRUD operations, I enhanced the application's capability to manage and interact with dog profiles for various rescue scenarios. The incorporation of the MVC architecture has improved the application's structure, making it more maintainable and scalable. Additionally, the user interface enhancements, built with the Dash framework, provide a more intuitive and responsive experience for users. This artifact showcases my ability to integrate multiple technologies into a cohesive system, demonstrating my growth as a software developer and aligning with the course outcomes for effective software development practices.
+</p>
 
-  - [Original Build Files](https://github.com/DCodeMorris/ePortfolio/tree/main/CS-499%20Databases/Artifact%20Three%20Original) (View the directory containing the original Python project files.)
+**Click here to view the full narrative** \| [(View Narrative)](https://github.com/meilers0522/meilers0522.github.io/blob/main/4%20Narratives/3%20Databases%20Narrative.pdf)
+
+  - [Original Build Files](https://github.com/meilers0522/meilers0522.github.io/tree/main/3%20Databases/Original%20Artifact/Original%20GraziosoSalvare) (View the directory containing the original Python project files.)
   - [Original Build Code](./CS-499 Databases/Artifact Three Original) (View the original Python code directly here.)
-  - [Final Build Files](https://github.com/DCodeMorris/ePortfolio/tree/main/CS-499%20Databases/Artifact%20Three%20Release) (View the directory containing the final Python project files.)
+  - [Final Build Files](https://github.com/meilers0522/meilers0522.github.io/tree/main/3%20Databases/Enhanced%20Artifact/Artifact%203%20Enhancement/Artifact3%20Enhancement) (View the directory containing the final Python project files.)
   - [Final Build Code](./CS-499 Databases/Artifact Three Release) (View the final builds Python code directly.)
 
 <div style="text-align: center;">
-    <a href="https://github.com/DCodeMorris/ePortfolio/blob/main/assets/img/Salvare%20Screenshot%20Artifact%203.png" target="_blank">
+    <a href="https://github.com/meilers0522/meilers0522.github.io/blob/main/assets/img/Grazioso_Salvare_Logo.png" target="_blank">
 		<img src="assets/img/Salvare Screenshot Artifact 3.png" width="720px" title="Salvare Application Screenshot" />
 	</a>
     <p><em>Figure 3 - Salvare Search with Database Enhancement - CS-340 Client/Server Development</em></p>
