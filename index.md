@@ -119,9 +119,7 @@ By using the C++ programming language and the OpenGL API, I showcase my strong t
 **Click here to view the full narrative** \| [(View Narrative)](https://github.com/meilers0522/meilers0522.github.io/blob/main/4%20Narratives/1%20Software%20Design%20and%20Engineering%20Narrative.pdf)
 
   - [Original Build Files](https://github.com/meilers0522/meilers0522.github.io/tree/main/1%20Software%20Engineering%20and%20Design/Original%20Artifact/Origional%205-3%20Assignment%20Texturing%20a%20Pyramid) (View the directory containing the original .cpp, and project files.)
-  - [Original Build Code](./CS-499 Software Engineering and Design/Artifact One Original) (View the original C++ code directly here.)
   - [Final Build Files](https://github.com/meilers0522/meilers0522.github.io/tree/main/1%20Software%20Engineering%20and%20Design/Enhanced%20Artifact/Enhanced%205-3%20Assignment%20Texturing%20a%20Pyramid) (View the directory containing the final .cpp and project files.)
-  - [Final Build Code](./CS-499 Software Engineering and Design/Artifact One Release) (View the final builds C++ code directly here.)
   <br><br>
 <div style="text-align: center;">
     <a href="https://github.com/meilers0522/meilers0522.github.io/blob/main/assets/img/Screenshot%20(237).png" target="_blank">
@@ -162,9 +160,7 @@ The artifact I have chosen for Enhancement Two: Algorithms and Data Structure is
 **Click here to view the full narrative** \| [(View Narrative)](https://github.com/meilers0522/meilers0522.github.io/blob/main/4%20Narratives/2%20Algorithms%20and%20Data%20Structures%20Narrative.pdf)
 
   - [Original Build Files](https://github.com/meilers0522/meilers0522.github.io/tree/main/2%20Algorithms%20and%20Data%20Structures/Original%20Artifact/Original%20Artifact%202/Major%20Project%202) (View the directory containing the original Python project files.)
-  - [Original Build Code](./CS-499 Algorithms and Data Structures/Artifact Two Original) (View the original Java code directly here.)
   - [Final Build Files](https://github.com/meilers0522/meilers0522.github.io/tree/main/2%20Algorithms%20and%20Data%20Structures/Enhanced%20Artifact/ZooAuthentication) (View the directory containing the final Python project files.)
-  - [Final Build Code](./CS-499 Algorithms and Data Structures/Artifact Two Release) (View the final builds Java code directly.)
 
 ### Conclusion:
 
@@ -200,9 +196,7 @@ The updated "Salvare Search for Rescue Web App" reflects significant advancement
 **Click here to view the full narrative** \| [(View Narrative)](https://github.com/meilers0522/meilers0522.github.io/blob/main/4%20Narratives/3%20Databases%20Narrative.pdf)
 
   - [Original Build Files](https://github.com/meilers0522/meilers0522.github.io/tree/main/3%20Databases/Original%20Artifact/Original%20GraziosoSalvare) (View the directory containing the original Python project files.)
-  - [Original Build Code](./CS-499 Databases/Artifact Three Original) (View the original Python code directly here.)
   - [Final Build Files](https://github.com/meilers0522/meilers0522.github.io/tree/main/3%20Databases/Enhanced%20Artifact/Artifact%203%20Enhancement/Artifact3%20Enhancement) (View the directory containing the final Python project files.)
-  - [Final Build Code](./CS-499 Databases/Artifact Three Release) (View the final builds Python code directly.)
 
 <div style="text-align: center;">
     <a href="https://github.com/meilers0522/meilers0522.github.io/blob/main/assets/img/Grazioso_Salvare_Logo.png" target="_blank">
