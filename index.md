@@ -94,7 +94,7 @@ In my code review video, I cover all three artifacts, analyzing each one individ
   - Code Analysis: Identification of areas for improvement in aspects such as structure, logic, efficiency, functionality, security, testing, and the quality of comments and documentation.
   - Planned Enhancements: A walkthrough of the intended improvements that address the issues identified in the code analysis.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Yvlx1phi2xc?si=zuiyypcoPiYyOgi4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/Yvlx1phi2xc?si=zuiyypcoPiYyOgi4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
